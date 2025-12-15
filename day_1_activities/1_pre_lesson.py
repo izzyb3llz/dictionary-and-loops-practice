@@ -7,14 +7,14 @@ capitals = {"USA": "Washiongton D.C.",
             "Russia": "Moscow"}
 
 print(dir(capitals))
-print(help(captials))
+print(help(capitals))
 print(capitals.get("Japan"))
-if captial.get ("Japan")
+if capitals.get ("Japan")
     print("That captial exists.")
 else:
     print("That capital does not exists.")
 
-captials.update(("Germany": "Berlin"))
+capitals.many": "Berlin"))
 captials.update(("USA": "Detroit"))
 Captials.pop("China")
 captials.popitem()
