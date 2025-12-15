@@ -116,6 +116,7 @@ for student in students:
     if name == student['Combo,Name']:
         print(student['Combo,Name'])
         print("this works")
+        
 
 # What is the goal of this search?
 
